@@ -1,0 +1,32 @@
+
+.root
+{
+    -fx-background-color: #121616;
+
+}
+.label
+{
+    -fx-text-fill : #93a692;
+    -fx-font-weight: bold ;
+}
+.button
+{
+    -fx-background-color : #ff7023;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 6;
+    -fx-font-weight: bold;
+}
+.check-box
+{
+    -fx-font-weight: bold;
+    -fx-text-fill: #FFFFFF;
+}
+.text-field
+{
+    -fx-background-color: dimgray;
+    -fx-text-fill: #FFFFFF;
+}
+.menu-bar{
+    -fx-background-color: dimgray;
+    -fx-text-fill: #FFFFFF;
+}
